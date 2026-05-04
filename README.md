@@ -98,7 +98,7 @@ python dronepropb_ablation.py --run_all --epochs 50
 ## Datasets
 
 - **Dataset 1:** Multiaxial vibration data for blade fault diagnosis in multirotor UAVs — Al-Haddad et al. (2025), *Scientific Data*. [DOI: 10.1038/s41597-025-05692-4](https://doi.org/10.1038/s41597-025-05692-4)
-- **Dataset 2:**
+- **Dataset 2:** TBA
 
 ---
 
