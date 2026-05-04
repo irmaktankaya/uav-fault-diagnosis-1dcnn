@@ -28,9 +28,9 @@ The model was evaluated on two different datasets to test how well the approach 
 ## Repository Structure
 
 ```
-├── main_dataset1.py          # Training and evaluation for Dataset 1 (DJI Mini 2)
+├── main_dataset1.py          # Training and evaluation for Dataset 1
 ├── ablation_dataset1.py      # Ablation study for Dataset 1 (raw vs. RMS vs. kurtosis)
-├── main_dataset2.py          # Training and evaluation for Dataset 2 (DronePropB)
+├── main_dataset2.py          # Training and evaluation for Dataset 2
 ├── ablation_dataset2.py      # Ablation study for Dataset 2 (raw vs. RMS vs. kurtosis)
 ```
 
@@ -98,7 +98,7 @@ python dronepropb_ablation.py --run_all --epochs 50
 ## Datasets
 
 - **Dataset 1:** Multiaxial vibration data for blade fault diagnosis in multirotor UAVs — Al-Haddad et al. (2025), *Scientific Data*. [DOI: 10.1038/s41597-025-05692-4](https://doi.org/10.1038/s41597-025-05692-4)
-- **Dataset 2:** DronePropB — Ground testing dataset for commercial drones with defective propellers — Ismail et al. (2024). [DOI: 10.17632/xkvfjmm8zg.1](https://doi.org/10.17632/xkvfjmm8zg.1)
+- **Dataset 2:**
 
 ---
 
