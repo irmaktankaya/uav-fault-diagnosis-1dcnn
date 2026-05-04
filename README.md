@@ -12,8 +12,8 @@ This project implements a lightweight **1D Convolutional Neural Network (1D CNN)
 
 The model was evaluated on two different datasets to test how well the approach generalizes across different experimental conditions:
 
-- **Dataset 1 :** 5-class problem using triaxial accelerometer recordings from a DJI Mini 2 in indoor hover flight. Best result: **98.58% test accuracy** (batch size 128, window length 4096).
-- **Dataset 2 :** 10-class problem from ground testing with three fault types at three severity levels. Best result: **68.67% test accuracy** (batch size 64, window length 2048).
+- **Dataset 1:** 5-class problem using triaxial accelerometer recordings from a DJI Mini 2 in indoor hover flight. Best result: **98.58% test accuracy** (batch size 128, window length 4096).
+- **Dataset 2:** 10-class problem from ground testing with three fault types at three severity levels. Best result: **68.67% test accuracy** (batch size 64, window length 2048).
 
 ---
 
